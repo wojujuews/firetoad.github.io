@@ -1,0 +1,19 @@
+markdown: radcarpett
+permalink: /:title/
+url: https://firetoad.github.io
+name: firetoad.io
+author: zhangxd
+qq: 568442540
+email: 568442540@qq.com
+duoshuo: zhangxd
+#beian:
+#cnzz: 119959
+#weibo: 2067815867
+github: wojujuews
+pygments: true
+safe: true
+paginate: 30
+about: "攻城狮一头，目前从事Linux的相关运维。	
+热爱Linux，开源爱好者，喜欢虚拟化，github等。		
+电脑洁癖与性能癖。  	
+偶尔微博，偶尔wow。"
